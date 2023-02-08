@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo illum quaerat necessitatibus vero temporibus delectus iste commodi modi fugit ut?",
+      "photo": "https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/315420224_1356024781601349_7571764711305368445_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEvK90SsbBzmXqrj51TL9RB1YGFpevJmW3VgYWl68mZbfU8iYRrAPM9kG8KYF53hzagKwJ0bCdgdR-jEdeK1sZP&_nc_ohc=ZGOFLOlWIRUAX9wIKvu&_nc_ht=scontent.fdac134-1.fna&oh=00_AfC3zxkZHeebNFMtJCYzcfbsELAp6yY-NKHwI9MGLjaSuQ&oe=63E7E35E",
+      "like": 4,
+      "comments": [
+        {
+          "id": 1,
+          "cmn": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "id": 2,
+          "cmn": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "id": 3,
+          "cmn": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+          "id": 4,
+          "cmn": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ]
+    },
+    {
+      "caption": [
+        "Deadpool - the wisecracking antihero with unmatched humor and combat skills. Join Ryan Reynolds on a wild and hilarious journey filled with action, adventure, and non-stop laughs."
+      ],
+      "photo": [
+        "https://m.media-amazon.com/images/M/MV5BM2Q5OTU2MzQtZmNiOS00Njk5LWE0ZDQtMDIwMTQ2NzAyMWY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDA5ODU0NDg@._V1_FMjpg_UX1000_.jpg"
+      ],
+      "id": 2
+    },
+    {
+      "caption": [
+        "Deadpool - the wisecracking antihero with unmatched humor and combat skills. Join Ryan Reynolds on a wild and hilarious journey filled with action, adventure, and non-stop laughs."
+      ],
+      "photo": [
+        "https://www.devtahir.com/wp-content/uploads/2022/05/Tahir-Hossain-Nihal_.jpg"
+      ],
+      "id": 3
+    },
+    {
+      "caption": [
+        "Deadpool - the wisecracking antihero with unmatched humor and combat skills. Join Ryan Reynolds on a wild and hilarious journey filled with action, adventure, and non-stop laughs."
+      ],
+      "photo": [
+        "https://www.devtahir.com/wp-content/uploads/2022/05/Tahir-Hossain-Nihal_.jpg"
+      ],
+      "id": 4
+    }
+  ]
+}
